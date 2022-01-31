@@ -43,3 +43,6 @@ This template follows a very simple project structure:
 - On debit card screen we can calculate user weekly spend amount and represt it as a progressbar.
 - Progrss bar is visible if user weekly spending limit switch is on.
 - if user can not set there weekly spend limit and try to turn on switch for weekly spending limit option they got one alert where we can inform user to set the weekly spend limit first.
+
+![Demo](https://github.com/shahrajk/Debitcard/blob/master/demo.gif)
+
